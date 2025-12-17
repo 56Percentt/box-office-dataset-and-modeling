@@ -57,20 +57,25 @@ avatar3-opening-forecast/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+├── LICENSE
+│
+├── notebooks/
+│   ├── 01_box_office_dataset_builder.ipynb
+│   └── 02_train_and_forecast_opening.ipynb
+│
 ├── data/
 │   ├── raw/
 │   │   └── raw_movies_all.csv
 │   └── processed/
 │       └── preprocessed_movies_all.csv
-├── notebooks/
-│   ├── 01_box_office_dataset_builder.ipynb
-│   └── 02_train_and_forecast_opening.ipynb
+│
 └── artifacts/
-    └── opening_domestic/
+    └── avatar3_forecast/
         ├── final_model.pkl
         ├── feature_cols.json
         ├── metrics_backtest.csv
         └── avatar3_prediction.json
+
 ```
 
 ## How to run
