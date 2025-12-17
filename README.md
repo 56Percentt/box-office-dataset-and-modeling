@@ -77,7 +77,7 @@ avatar3-opening-forecast/
 
 1. Clone the repository
 
-   git clone [https://github.com/your-username/avatar3-opening-forecast.git](https://github.com/your-username/avatar3-opening-forecast.git)
+   git clone [https://github.com/your-username/avatar3-opening-forecast.git](https://github.com/56Percentt/avatar3-opening-forecast.git)
    cd avatar3-opening-forecast
 
 2. Install dependencies
